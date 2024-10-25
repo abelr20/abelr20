@@ -1,9 +1,4 @@
 <h1 align="center"> Hello world 👋, I'm Abel.</h1>
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&multiline=true&center=true&repeat=false&width=435&height=55&lines=Engineering+is+the+closest+thing+;to+magic+that+exists+in+the+world)](https://git.io/typing-svg)
-
-</div>
   
 <h4 align="center">I'm an experienced Software Engineer with a passion for working on new technologies and solving complex problems. I am also a core team member and co-creator of SkyScraper, an open-source visualizer dashboard for monitoring AWS EC2 instances.
 <br>
