@@ -3,7 +3,7 @@
 <h4 align="center">I'm an experienced Software Engineer with a passion for working on new technologies and solving complex problems. I am also a core team member and co-creator of SkyScraper, an open-source visualizer dashboard for monitoring AWS EC2 instances.
 <br>
 <br>
-My other experiences include building innovative full-stack products incorporating JavaScript/ES6+, TypeScript, React, Redux, Node.js, Express.</h4>
+My other experiences include building innovative full-stack products incorporating JavaScript/ES6+, TypeScript, React, Redux, Node.js, Express, and AWS.</h4>
 
 <h3 align="left">Skills & Technologies:</h3>
 
