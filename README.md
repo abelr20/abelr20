@@ -27,10 +27,7 @@ My other experiences include building innovative full-stack products incorporati
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![EC2](https://img.shields.io/badge/-EC2-orange?logo=amazonec2&style=for-the-badge&logoColor=white)
 
-<h3 align="left">Contact Me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhruv-thota/)
-[![Mail](https://img.shields.io/badge/Proton-Mail?style=for-the-badge&logo=protonmail&logoColor=white&color=%236D4AFF)](mailto:AbelRatanaphan@proton.me)
 
 <!--
 **abelr20/abelr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
