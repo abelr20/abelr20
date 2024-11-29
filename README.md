@@ -1,6 +1,6 @@
 <h1 align="center"> Abel Ratanaphan</h1>
   
-<h4 align="center">I'm a Software Engineer experienced in building full-stack web applications using JavaScript, TypeScript, React, Redux, Node.js, Express, SQL and NoSQL databases.
+<h4 align="center">Software Engineer experienced in building full-stack web applications using JavaScript, TypeScript, React, Redux, Node.js, Express, SQL and NoSQL databases.
 
 <br>
 <br>
