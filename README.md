@@ -3,6 +3,8 @@
 <h4 align="center">I'm a Software Engineer experienced in building full-stack web applications using JavaScript, TypeScript, React, Redux, Node.js, Express, SQL and NoSQL databases.
 
 <br>
+<br>
+
 
 Co-creator of SkyScraper, a visualizer dashboard that integrates and displays performance and health metrics of AWS EC2 instances, empowering users with enhanced system visibility and streamlined cloud infrastructure management capabilities. I also lead discussions on best practices, such as building scalable software using microservices architecture.
 
